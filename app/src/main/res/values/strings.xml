@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Keflix</string>
+    <string name="pindahbutton">Pindah</string>
+    <string name="api_key">275cba63ab8a94205cf46cefb965f19a</string>
+</resources>
